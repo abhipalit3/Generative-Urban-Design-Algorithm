@@ -47,28 +47,6 @@ This dissertation focuses on creating a **Generative Design Algorithm** for two 
 
 ---
 
-## 📁 **Repository Structure**
-
-📦 Generative-Urban-Design-Algorithm
-├── 📁 images/                                   # Folder containing presentation slides
-│   └── (All presentation images)
-├── 📄 Abhishek Palit_19510002_Dissertation Report.pdf
-│   └── The complete dissertation report
-├── 📄 Autodesk Revit Dynamo Script.dyn
-│   └── Dynamo script used in the project
-├── 📄 Generative Urban Design - Dissertation Presentation.pptx
-│   └── PowerPoint presentation of the dissertation
-├── 📄 LICENSE
-│   └── License file (MIT)
-├── 📄 Model.rvt
-│   └── Revit model used in the study
-├── 📄 README.md
-│   └── Project overview (this file)
-└── 📄 Results.csv
-    └── Results from the generative design algorithm
-
----
-
 ## 🖼️ **Dissertation Presentation**
 
 Below are some key slides from the **final dissertation presentation**, summarizing the study and its outcomes:

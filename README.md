@@ -1,5 +1,7 @@
 # 🌆 Generative Urban Design Algorithm
 
+## 🏙️ **Growing Population and Urbanization**
+
 The growing **global population** and **urbanization** have placed immense pressure on cities, making it more challenging for planners and architects to create sustainable, livable environments. With increasing **demand for land**, cities are expanding their boundaries and developing new neighborhoods that require **optimized layouts** for the well-being of their residents.
 
 ---

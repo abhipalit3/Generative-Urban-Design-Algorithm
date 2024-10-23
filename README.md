@@ -1,12 +1,18 @@
-# 🌆 Generative Urban Design Algorithm
+# Generative Design for Spatial Layout of Urban Neighborhood
 
-## 🏙️ **Growing Population and Urbanization**
+![Generative Urban Design](./images/image.png)
 
-The growing **global population** and **urbanization** have placed immense pressure on cities, making it more challenging for planners and architects to create sustainable, livable environments. With increasing **demand for land**, cities are expanding their boundaries and developing new neighborhoods that require **optimized layouts** for the well-being of their residents.
+This repository contains the dissertation project of **Abhishek Palit** submitted in partial fulfillment of the requirements for the **Master of Architecture** at **Indian Institute of Technology Roorkee**.
 
----
+## 📄 Project Overview
+
+The dissertation explores **Generative Design** techniques to optimize the spatial layout of urban neighborhoods. Using computational methods, the study aims to develop an algorithm that considers multiple urban design goals such as profit, open spaces, proximity, and shading to generate and evaluate design solutions. This algorithm has been applied to the **Salt Lake City, Kolkata** neighborhood as a case study.
+
+
 
 ## 🏙️ **Challenges in Urban Design**
+
+The growing **global population** and **urbanization** have placed immense pressure on cities, making it more challenging for planners and architects to create sustainable, livable environments. With increasing **demand for land**, cities are expanding their boundaries and developing new neighborhoods that require **optimized layouts** for the well-being of their residents.
 
 Urban design is a **multi-faceted process** involving several stakeholders, goals, and constraints, often making it difficult for planners and architects to achieve a balance. This project aims to address these challenges through a **Generative Algorithm** that outputs multiple **scenario-based designs**, helping stakeholders make informed decisions.
 
@@ -46,6 +52,7 @@ This dissertation focuses on creating a **Generative Design Algorithm** for two 
 
 - The algorithm generated **optimal designs** that balance profit, urban quality, proximity, and comfort.
 - The top solutions provide **better outcomes** than the existing neighborhood design in Salt Lake City, demonstrating the **value of generative algorithms** in urban planning.
+- Optimization Study: The generative design algorithm generated multiple solutions based on specified goals such as maximizing plots, minimizing road areas, and ensuring proximity to amenities.
 
 ---
 

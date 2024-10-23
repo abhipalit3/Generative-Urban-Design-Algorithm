@@ -1,6 +1,6 @@
 # Generative Design for Spatial Layout of Urban Neighborhood
 
-![Generative Urban Design](./images/image.png)
+![Generative Urban Design](./images/image.gif)
 
 This repository contains the dissertation project of **Abhishek Palit** submitted in partial fulfillment of the requirements for the **Master of Architecture** at **Indian Institute of Technology Roorkee**.
 

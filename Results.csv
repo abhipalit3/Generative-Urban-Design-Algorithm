@@ -1,0 +1,23 @@
+Study type,Final Script,Study name,Final Script 001,Creation time,2021-11-04 17:23:43,Method,NSGA2,Generations,10,Population size,20,Seed,1
+
+ID,Open Space Area Percentage,No. of Plots,Percentage Road Area,Maximum Radial Distance to School,Maximum Radial Distance to Park,Percentage of Road Shaded,Road Point Parameter - Side A,Number of Major Roads - Side A,Number of Major Roads - Side B,Road Point Parameter - Side B
+24d6eedf-b82a-429a-ad10-d82e11523e6f,,,,,,,0.35,3,3,0.4
+1d44a391-bee7-4946-a880-8cf0200f116f,,,,,,,0.5,2,3,0.6000000000000001
+e4ee12fa-5145-4732-ba4e-ca122078ff51,,,,,,,0.35,1,4,0.45
+b3c16db4-77cb-49de-87a1-4a65d7b50b9a,,,,,,,0.6000000000000001,1,2,0.6000000000000001
+db52be3e-9da9-4c9d-a7a8-5524f9a2d455,,,,,,,0.4,3,4,0.3
+d658714f-cd7f-40f0-9a7e-02ab9eac1838,,,,,,,0.3,2,4,0.45
+84a185ff-52f9-4887-8181-dfd3648ac010,,,,,,,0.4,2,1,0.4
+9a9b9317-02de-43a7-8a1c-f14586ece3db,,,,,,,0.5,2,2,0.4
+32ccf4fc-650f-4e60-827d-32ed068834ce,,,,,,,0.4,2,2,0.3
+035fb85b-5d79-4f2e-b1a1-65e1fcf1b8d9,,,,,,,0.65,2,3,0.35
+62531d61-ea43-4686-bd1d-7d9182c0fa55,,,,,,,0.7,3,1,0.45
+36f95476-0b36-4dfb-8a0f-1fdbd04206f5,,,,,,,0.6000000000000001,2,4,0.45
+70450692-c0d3-4294-af63-1ab9540ff6d4,,,,,,,0.65,2,2,0.55
+afab3d8a-ba61-4d6d-82f8-a149b7684b68,,,,,,,0.65,3,3,0.55
+539bfde0-936f-452e-afa7-f9ad338ac6bb,,,,,,,0.3,1,3,0.45
+b866d199-accf-4831-b472-83cfc348cf90,,,,,,,0.35,2,3,0.55
+7ddcefd0-8503-4713-b0a2-df689413f3ee,,,,,,,0.45,2,3,0.6000000000000001
+f7368400-5bb8-4811-b1d1-b3e8b9ce13bb,,,,,,,0.5,2,2,0.3
+7cb35fea-9ad8-496f-99da-2520cdfe542e,,,,,,,0.3,2,4,0.55
+aea440b7-4a82-4b08-8ab1-94e0cb37a0cb,,,,,,,0.45,1,3,0.7
